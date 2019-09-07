@@ -1,6 +1,6 @@
 # dhikabayu.github.io
 Mantap anyeng
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
